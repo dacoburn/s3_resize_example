@@ -1,0 +1,7 @@
+{
+	"aws_access_key":"ACCESSKEY",
+	"aws_secret_key":"SECRETKEY",
+	"aws_s3_bucket":"images",
+	"endpoint_url":"http://S3ORSWIFTSERVER:PORT",
+	"key":"filename.jpg"
+}
